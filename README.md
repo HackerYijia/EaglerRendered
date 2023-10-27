@@ -1,17 +1,18 @@
 # EaglerRendered
-Hello this is NoxShadow YT / HackerYijia / NotionJunar.
-As many as you know, Replit has a data transfer limit of 10GiB a month, for large servers, this can be easy throtted.
-And EaglerCraft is facing Mojiang's DMCA for porting the game files to javascript via TeaVMC Compiliatation, allowing players
-, especially students, to play the game without owning a license. Especially when now Replit is transiting to paid-only: https://blog.replit.com/hosting-changes
 
-This project meant to run EaglerCraft Bungeecord, on render.com, which offers a free subdomain nicer than projectname.username.repl.co.
+## Description
+EaglerRendered is a project to run EaglerCraft Bungeecord server on render.com, a web hosting platform with free subdomains and better performance than Replit, which has a 10GB data transfer limit for free accounts. 
 
-# Deployment
-Go to render.com, register for a account, fork this project as a Docker repo.
+## Deployment
 
-# Contribution
-Via PR
+1. Register for a Render.com account
+2. Fork this repository as a Docker repository
+2. [Optional] Build and run the Docker container with `docker-compose up` 
 
-# License
-You are not allowed to use this for commerical usage.
-Copyright NX Cooperation, do not disturb.
+## Contributions
+
+Contribution is welcome via pull requests.
+
+## License
+
+This project cannot be used commercially. It is subject to NX Cooperation's intellectual property. Unauthorized use is prohibited.
